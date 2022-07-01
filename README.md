@@ -695,7 +695,8 @@ https://youtu.be/RMkkme8a0Ec
 
 •	Finalmente, es importante reconocer cuales son las resistencias que están en paralelo o en serie dentro de un circuito.
 
-6.-
+6.-Bibliografia:
+
 Floyd, T. (2007). Principios de circuitos electricos. CDMX, México: Pearson.
 
 
