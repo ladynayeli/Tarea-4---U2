@@ -687,7 +687,11 @@ Solución
 
 5.-Conclusiones
 
+•	Tras el análisis de los diferentes temas tratados, concluimos que tienen una relación entre, así también determinamos que podemos acoplar los circuitos de mejor manera para una fácil resolución del circuito a calcular.
 
+•	En el teorema de superposición se lo puede utilizar cuando existen 2 o mas fuentes de voltajes, así mismo se debe separar los circuitos dependiendo de los voltajes con los que se vaya a trabajar.
+
+•	Finalmente, es importante reconocer cuales son las resistencias que están en paralelo o en serie dentro de un circuito.
 
 6.-
 Floyd, T. (2007). Principios de circuitos electricos. CDMX, México: Pearson.
