@@ -1,7 +1,18 @@
 # Tarea-4-U2
+1.-Objetivo
+
+1.1 Objetivo General	
+
+Analizar a detalle las características que conforman un circuito serie/paralelo, también conocido como circuito mixto, definiendo el comportamiento de los voltajes, resistencias y corrientes presentes en dicho circuito, con el fin de definir los teoremas y conversiones que se llegan aplicar en la resolución de ejercicios.
+
+1.2 Objetivos Especificos
 
 
+•	Comprender las definiciones de los temas tratados en el capitulo 7 y 8, para obtener resultados satisfactorios en la resolución de ejercicios.
 
+•	Distinguir de forma clara la formulas, que ayudaran a una mejor resolución de ejercicios.
+
+•	Analizar las posibles conversiones en un circuito  para obtener su circuito equivalente y facilitar su resolución
 
 
 
