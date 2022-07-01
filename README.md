@@ -685,6 +685,8 @@ Solución
 -------------------------
 4.-Video
 
+https://youtu.be/RMkkme8a0Ec
+
 5.-Conclusiones
 
 •	Tras el análisis de los diferentes temas tratados, concluimos que tienen una relación entre, así también determinamos que podemos acoplar los circuitos de mejor manera para una fácil resolución del circuito a calcular.
